@@ -40,3 +40,6 @@ gem 'spring',        group: :development
 
 # Install chanko
 gem 'chanko'
+
+# Quick layout
+gem 'refills'
