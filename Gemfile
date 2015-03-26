@@ -42,4 +42,6 @@ gem 'spring',        group: :development
 gem 'chanko'
 
 # Quick layout
+gem 'bourbon'
+gem 'neat'
 gem 'refills'
