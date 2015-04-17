@@ -45,3 +45,6 @@ gem 'chanko'
 gem 'bourbon'
 gem 'neat'
 gem 'refills'
+
+# Debug
+gem 'pry-rails'
